@@ -1,29 +1,47 @@
-## Welcome to GitHub Pages
+<html>
+<body background="ombray.jpg">
+<h1><font color="	#DB7093">Welcome to my website!</font color="	#DB7093"><h1>
 
-You can use the [editor on GitHub](https://github.com/Plopsy/Peepsa/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<img src="corgiwave.gif" width"300" height"218.4"><br>
+ 
+<font color="#8B0000"><b>My name is Pia</b><br></font color="#8B0000">
+<u>I'm Filipino</u><br>
+<font color="#CD5C5C">I like <i>a lot of things</i><sup>such<sup><sub> as...<sub></font color="#CD5C5C"><br>
+<p>
+<font color="#00CED1">
+<tr>
+<table border="1">
+<tr>
+<td rowspan="6">EDM</td>
+<td colspan="6">Chocolate</td>
+</tr>
+<tr>
+<td rowspan="4">Tea<br>and<br>Coffee</td>
+<td colspan="4">Volleyball</td>
+<td rowspan="6">I.C.T</td>
+ </tr>
+ <tr>
+ <td rowspan="2">Dancing</td>
+<td colspan="2">my family</td>
+<td rowspan="4">Anime?</td>
+</tr>
+<td><a href="http://roosterteeth.com/"><img src="spiderman.gif"<br>Click that!^</td>
+<td rowspan="2">Youtube</td>
+</tr>
+ <tr>
+<td colspan="2">Corgis</td>
+ </tr>
+<td colspan="4">Apple crumble </td>
+</tr>
+<tr>
+<td colspan="6">BIRDS</td>
+</table>
+</font color="#00CED1">
+<p><a href="mailto:piasam8@gmail.com">Email me if you need to!</a><p><br><br>
+<img src="rwbywave.gif" width"50" height"63.63">
+That's all, have a wonderful day! :)
+</body>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
