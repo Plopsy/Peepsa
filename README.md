@@ -6,7 +6,7 @@
  
 <font color="#8B0000"><b>My name is Pia</b></font><br>
 <u>I'm Filipino</u><br>
-<font color="#CD5C5C">I like <i>a lot of things</i><sup>such<sup><sub> as...<sub><br></font>
+<font color="#CD5C5C">I like <i>a lot of things</i><sup>such<sup><sub> as...<sub></font><br>
 <p>
 
 <tr>
@@ -39,7 +39,7 @@
 
 <p><a href="mailto:piasam8@gmail.com">Email me if you need to!</a><p><br><br>
 <img src="rwbywave.gif">
-That's all, have a wonderful day! :)
+ <font size="45">That's all, have a wonderful day! :)</font>
 </body><br>
 
 
