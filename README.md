@@ -1,12 +1,12 @@
 <html>
 <body background="ombray.jpg">
-<h1><font color="#DB7093">Welcome to my website!<h1>
+<h1><font color="#DB7093">Welcome to my website!</font color="#DB7093"><h1>
 
 <img src="corgiwave.gif"> <br>
  
-<font color="#8B0000"><b>My name is Pia</b><br>
+<font color="#8B0000"><b>My name is Pia</b></font color="#8B0000"><br>
 <u>I'm Filipino</u><br>
-<font color="#CD5C5C">I like <i>a lot of things</i><sup>such<sup><sub> as...<br>
+<font color="#CD5C5C">I like <i>a lot of things</i><sup>such<sup><sub> as...<sub><br></font color="#CD5C5C">
 <p>
 
 <tr>
