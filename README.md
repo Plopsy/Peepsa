@@ -1,6 +1,6 @@
 <html>
 <body background="ombray.jpg">
-<h1><font color="#DB7093">Welcome to my website!</font><h1>
+ <h1><font color="#DB7093"><u><b>Welcome to my website!</b></u></font><h1>
 
 <img src="corgiwave.gif"> <br>
  
