@@ -1,14 +1,14 @@
 <html>
 <body background="ombray.jpg">
-<h1><font color="	#DB7093">Welcome to my website!</font color="	#DB7093"><h1>
+<h1><font color="#DB7093">Welcome to my website!<h1>
 
-<img src="corgiwave.gif" width"300" height"218.4"><br>
+<img src="corgiwave.gif"> <br>
  
-<font color="#8B0000"><b>My name is Pia</b><br></font color="#8B0000">
+<font color="#8B0000"><b>My name is Pia</b><br>
 <u>I'm Filipino</u><br>
-<font color="#CD5C5C">I like <i>a lot of things</i><sup>such<sup><sub> as...<sub></font color="#CD5C5C"><br>
+<font color="#CD5C5C">I like <i>a lot of things</i><sup>such<sup><sub> as...<br>
 <p>
-<font color="#00CED1">
+
 <tr>
 <table border="1">
 <tr>
@@ -36,7 +36,7 @@
 <tr>
 <td colspan="6">BIRDS</td>
 </table>
-</font color="#00CED1">
+
 <p><a href="mailto:piasam8@gmail.com">Email me if you need to!</a><p><br><br>
 <img src="rwbywave.gif" width"50" height"63.63">
 That's all, have a wonderful day! :)
