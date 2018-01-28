@@ -6,7 +6,7 @@
  
 <font color="#8B0000"><b>My name is Pia</b></font><br>
 <u>I'm Filipino</u><br>
-<font color="#CD5C5C">I like <i>a lot of things</i><sup>such<sup><sub> as...<sub></font><br>
+<font color="#CD5C5C">I like <i>a lot of things</i><sup>such<sup><sub> as...<sub> </font><br>
 <p>
 
 <tr>
