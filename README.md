@@ -38,7 +38,7 @@
 </table>
 
 <p><a href="mailto:piasam8@gmail.com">Email me if you need to!</a><p><br><br>
-<img src="rwbywave.gif" width"50" height"63.63">
+<img src="rwbywave.gif">
 That's all, have a wonderful day! :)
 </body><br>
 
