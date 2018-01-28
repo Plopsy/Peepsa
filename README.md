@@ -35,11 +35,11 @@
 </tr>
 <tr>
 <td colspan="6">BIRDS</td>
-</table>
+
 
 <p><a href="mailto:piasam8@gmail.com">Email me if you need to!</a><p><br><br>
-<img src="rwbywave.gif">
+<img src="rwbywave.gif"><br>
  <font size="45">That's all, have a wonderful day! :)</font>
-</body><br>
+<br>
 
 
