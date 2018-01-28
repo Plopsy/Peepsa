@@ -1,12 +1,12 @@
 <html>
 <body background="ombray.jpg">
-<h1><font color="#DB7093">Welcome to my website!</font color="#DB7093"><h1>
+<h1><font color="#DB7093">Welcome to my website!</font><h1>
 
 <img src="corgiwave.gif"> <br>
  
-<font color="#8B0000"><b>My name is Pia</b></font color="#8B0000"><br>
+<font color="#8B0000"><b>My name is Pia</b></font><br>
 <u>I'm Filipino</u><br>
-<font color="#CD5C5C">I like <i>a lot of things</i><sup>such<sup><sub> as...<sub><br></font color="#CD5C5C">
+<font color="#CD5C5C">I like <i>a lot of things</i><sup>such<sup><sub> as...<sub><br></font>
 <p>
 
 <tr>
@@ -25,7 +25,7 @@
 <td colspan="2">my family</td>
 <td rowspan="4">Anime?</td>
 </tr>
-<td><a href="http://roosterteeth.com/"><img src="spiderman.gif"<br>Click that!^</td>
+<td><a href="http://roosterteeth.com/"><img src="spiderman.gif"><br>Click that!^</td>
 <td rowspan="2">Youtube</td>
 </tr>
  <tr>
@@ -40,11 +40,11 @@
 <p><a href="mailto:piasam8@gmail.com">Email me if you need to!</a><p><br><br>
 <img src="rwbywave.gif" width"50" height"63.63">
 That's all, have a wonderful day! :)
-</body>
+</body><br>
 
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+<p>For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
@@ -52,4 +52,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.<p>
