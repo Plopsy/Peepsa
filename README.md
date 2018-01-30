@@ -5,7 +5,7 @@
 <img src="corgiwave.gif"><br>
 <font size="30">        ~Here is...</font><br>
 
-I   <a href="intropia.html">My Introduction</a><br>
+I   <a href="INTROPIA.html">My Introduction</a><br>
 II  <a href="table.html">The Table</a><br>
 III <a href="frame.html">Frames</a><br>
 IV <a href="indexf.html">Space and Astronomy</a><br>
