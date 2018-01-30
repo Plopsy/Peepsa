@@ -8,7 +8,7 @@
 I   <a href="intropia.html">My Introduction</a><br>
 II  <a href="table.html">The Table</a><br>
 III <a href="frame.html">Frames</a><br>
-IV <a href="indexf.html">Frames</a><br>
+IV <a href="indexf.html">Space and Astronomy</a><br>
   <img src="rwbywave.gif"><br>
  <font size="45">That's all, have a wonderful day! :)</font><br>
 </body>
