@@ -12,4 +12,4 @@ IV <a href="indexf.html">Space and Astronomy</a><br>
  V <a href="vid.html">Video</a><br>
   <img src="rwbywave.gif"><br>
  <font size="45">That's all, have a wonderful day! :)</font><br>
-</body>
+
